@@ -1,4 +1,5 @@
-# Given that you can only select a pair of integers which has the distance less than 1 (let's say num and num-1), what is the length of the longest array that contains only elements equal to num and num -1.
+# you can only select a pair of integers which has the distance less than 1 (let's say num and num-1)
+# This question asks what is the length of the longest array that contains only elements equal to num and num -1.
 
 def pickingNumbers(a):
     maximum = 0 # set the maximum = 0
